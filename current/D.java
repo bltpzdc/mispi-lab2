@@ -11,4 +11,8 @@ public class D {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public float ff() {
+        return 0;
+    }
 }

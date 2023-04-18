@@ -11,4 +11,8 @@ public class C {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public Object rr() {
+        return null;
+    }
 }
