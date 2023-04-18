@@ -15,4 +15,12 @@ public class B {
     public int cc() {
         return 13;
     }
+
+    public float ff() {
+        return 0;
+    }
+
+    public Object pp() {
+        return this;
+    }
 }
