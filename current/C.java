@@ -19,8 +19,4 @@ public class C {
     public double ad() {
         return 11.09;
     }
-
-    public double ee() {
-        return 100.500;
-    }
 }

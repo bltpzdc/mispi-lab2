@@ -19,8 +19,4 @@ public class B {
     public float ff() {
         return 0;
     }
-
-    public Object pp() {
-        return this;
-    }
 }
