@@ -19,4 +19,8 @@ public class D {
     public double ad() {
         return 11;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
