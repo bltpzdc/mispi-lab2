@@ -11,4 +11,8 @@ public class J {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
