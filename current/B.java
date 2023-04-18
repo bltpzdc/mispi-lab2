@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private long d = 4321;
 
@@ -22,5 +22,21 @@ public class B {
 
     public Object pp() {
         return this;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public byte oo() {
+        return 2;
+    }
+
+    public Object rr() {
+        return null;
     }
 }
