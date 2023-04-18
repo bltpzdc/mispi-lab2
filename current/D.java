@@ -15,4 +15,8 @@ public class D {
     public float ff() {
         return 0;
     }
+
+    public double ad() {
+        return 11;
+    }
 }

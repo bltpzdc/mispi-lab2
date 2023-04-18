@@ -15,4 +15,8 @@ public class C {
     public Object rr() {
         return null;
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }
