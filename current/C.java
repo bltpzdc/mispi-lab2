@@ -31,4 +31,8 @@ public class C {
     public int cc() {
         return 42;
     }
+
+    public int af() {
+        return -1;
+    }
 }

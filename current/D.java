@@ -31,4 +31,8 @@ public class D {
     public int cc() {
         return 13;
     }
+
+    public byte oo() {
+        return 3;
+    }
 }

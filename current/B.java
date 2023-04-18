@@ -31,4 +31,8 @@ public class B {
     public int af() {
         return -1;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
