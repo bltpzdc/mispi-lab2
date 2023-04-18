@@ -23,4 +23,8 @@ public class D {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }

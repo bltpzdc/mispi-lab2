@@ -23,4 +23,8 @@ public class C {
     public double ee() {
         return 100.500;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
