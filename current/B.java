@@ -11,8 +11,4 @@ public class B {
     public java.lang.Class qq() {
         return getClass();
     }
-
-    public int cc() {
-        return 13;
-    }
 }
