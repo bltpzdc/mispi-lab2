@@ -27,4 +27,8 @@ public class J {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
