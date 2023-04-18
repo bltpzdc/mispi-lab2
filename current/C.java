@@ -1,4 +1,4 @@
-public class C {
+public class C extends null {
 
     private long c = 1234;
 
@@ -18,5 +18,33 @@ public class C {
 
     public double ad() {
         return 11.09;
+    }
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
     }
 }

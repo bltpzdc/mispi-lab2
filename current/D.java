@@ -1,4 +1,4 @@
-public class D {
+public class D extends null {
 
     private int k = 1;
 
@@ -12,11 +12,43 @@ public class D {
         System.out.println(getClass().getName());
     }
 
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
     public float ff() {
         return 0;
     }
 
-    public double ad() {
-        return 11;
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public int cc() {
+        return 13;
     }
 }
